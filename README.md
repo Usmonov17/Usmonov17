@@ -6,6 +6,6 @@
 
 💞️ I’m looking to collaborate on open-source projects, particularly in web development and frontend frameworks.
 
-📫 How to reach me: You can contact me via Telegram @Developer_M4 or email me at usmonov1702@gmail.com.
+📫 How to reach me: You can contact me via Telegram @dev_vue3 or email me at usmonov1702@gmail.com.
 
 ⚡ Fun fact: I enjoy sports and have won several local tournaments.
