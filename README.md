@@ -1,4 +1,4 @@
-👋 Hi, I’m Muhammadqodir (@Usmonov17). I’m a Frontend Developer with experience in Vue.js and a keen interest in learning new technologies.
+👋 Hi, I’m Muhammadqodir. I’m a Frontend Developer with experience in Vue.js and a keen interest in learning new technologies.
 
 👀 I’m interested in web development, especially frontend frameworks like Vue.js and exploring new technologies.
 
